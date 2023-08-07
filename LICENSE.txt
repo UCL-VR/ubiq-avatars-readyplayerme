@@ -1,4 +1,4 @@
-Copyright 2021 the Virtual Environments and Computer Graphics Group, 
+Copyright 2021 the Virtual Environments and Computer Graphics Group,
 University College London
 
                                  ----
@@ -6,23 +6,23 @@ University College London
 Ubiq is licensed under the Apache License Version 2.0 (the "License");
 
     http://www.apache.org/licenses/LICENSE-2.0
-	
+
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-	
-This license applies to all source files, assets, configuration files 
+
+This license applies to all source files, assets, configuration files
 documentation and any other content delivered with the project, with the
 exception of the subcomponents as set forth below.
-	
+
 This project incorporates components from a number of authors.
-The original copyright notices and the licenses under which UCL received 
-the components are presented in the LICENSE files in the directories of 
+The original copyright notices and the licenses under which UCL received
+the components are presented in the LICENSE files in the directories of
 those components.
 
-University College London reserves all rights not expressly granted herein, 
+University College London reserves all rights not expressly granted herein,
 whether by implication, estoppel or otherwise.
 
 
