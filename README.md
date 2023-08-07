@@ -1,6 +1,6 @@
 # Ubiq Avatars (ReadyPlayerMe)
 
-![rpm-avatar](https://github.com/UCL-VR/ubiq-avatars-readyplayerme/assets/33021110/ee4851cd-bf62-4b27-9dd9-4938f2ce87c6)
+![rpm-avatar](https://github.com/UCL-VR/ubiq-avatars-readyplayerme/assets/33021110/f25c7f6f-7b65-49d6-a964-eb3a8e00837a)
 
 Compatibility package for Ready Player Me avatars and Ubiq. Currently support is only good for `HalfBody` avatars.
 
@@ -14,7 +14,7 @@ https://github.com/readyplayerme/rpm-unity-sdk-core.git#v1.3.3
 2. In the UPM window, select Ubiq from the package list and import the Samples. Note that you must do this now as this package depends on some features of the core Ubiq samples.
 3. Add this git package through UPM.
 ```
-https://github.com/UCL-VR/ubiq-avatars-readyplayerme.git#v1.0.1-upm
+https://github.com/UCL-VR/ubiq-avatars-readyplayerme.git#v1.0.2-upm
 ```
 
 ## Using a Ready Player Me avatar in Ubiq
