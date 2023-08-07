@@ -1,6 +1,6 @@
 {
     "name": "com.ucl.ubiq-readyplayerme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Ubiq Avatars (Ready Player Me)",
     "description": "Utility for connecting Ready Player Me avatars to Ubiq",
     "unity": "2021.3",
