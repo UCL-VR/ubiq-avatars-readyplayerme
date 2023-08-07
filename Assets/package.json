@@ -1,0 +1,22 @@
+{
+    "name": "com.ucl.ubiq-readyplayerme",
+    "version": "1.0.0",
+    "displayName": "Ubiq Avatars (Ready Player Me)",
+    "description": "Utility for connecting Ready Player Me avatars to Ubiq",
+    "unity": "2021.3",
+    "dependencies": {
+   },
+   "keywords": [ ],
+    "author": {
+      "name": "UCL Immersive Virtual Environments Laboratory",
+      "email": "ubiq@cs.ucl.ac.uk",
+      "url": "https://vr.cs.ucl.ac.uk/"
+    },
+    "samples": [
+      {
+        "displayName": "Samples",
+        "description": "Example scene for loading and visualising a Ready Player Me avatar",
+        "path": "Samples~"
+      }
+    ]
+  }
