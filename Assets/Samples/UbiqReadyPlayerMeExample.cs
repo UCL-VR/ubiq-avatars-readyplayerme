@@ -24,7 +24,7 @@ namespace UbiqReadyPlayerMe.Samples
         {
             if (!loader)
             {
-                loader = FindObjectOfType<UbiqReadyPlayerMe.UbiqReadyPlayerMeLoader>();
+                loader = FindObjectOfType<UbiqReadyPlayerMeLoader>();
                 if (loader)
                 {
                     loader.completed.AddListener(Loader_Completed);
