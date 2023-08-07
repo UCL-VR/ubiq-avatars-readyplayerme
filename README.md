@@ -12,7 +12,7 @@ https://github.com/readyplayerme/rpm-unity-sdk-core.git#v1.3.3
 2. In the UPM window, select Ubiq from the package list and import the Samples. Note that you must do this now as this package depends on some features of the core Ubiq samples.
 3. Add this git package through UPM.
 ```
-https://github.com/UCL-VR/ubiq-avatars-readyplayerme.git#v1.0.0-upm
+https://github.com/UCL-VR/ubiq-avatars-readyplayerme.git#v1.0.1-upm
 ```
 
 ## Using a Ready Player Me avatar in Ubiq
